@@ -1,0 +1,47 @@
+name: Refresh sports EPG
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 5 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: sports-epg
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Install downloader
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git /tmp/epg
+          cd /tmp/epg
+          npm ci --ignore-scripts
+          node --import tsx scripts/commands/api/load.ts
+      - name: Download schedules
+        run: |
+          cd /tmp/epg
+          node --import tsx scripts/commands/epg/grab.ts --channels="$GITHUB_WORKSPACE/sports.channels.xml" --output="$GITHUB_WORKSPACE/next.xml" --days=2 --maxConnections=2 --timeout=10000
+      - name: Validate and publish
+        run: |
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+          programs = ET.parse('next.xml').getroot().findall('programme')
+          if len(programs) < 100:
+              raise SystemExit('Too few listings; retaining previous guide')
+          Path('next.xml').replace('sports-guide.xml')
+          print(f'Published {len(programs)} listings')
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add sports-guide.xml
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh sports guide'
+            git push
+          fi
