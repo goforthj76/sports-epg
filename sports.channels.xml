@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+<channel site="horizon.tv" site_id="10186" lang="sk" xmltv_id="Sport.sk@SD">RTVS Sport HD</channel>
+<channel site="digiturk.com.tr" site_id="433" lang="tr" xmltv_id="ASpor.tr@SD">A SPOR</channel>
+<channel site="tvguide.com" site_id="9200017734" lang="en" xmltv_id="ACCNetwork.us@SD">ACC Network</channel>
+<channel site="guidatv.sky.it" site_id="DTH#7587" lang="it" xmltv_id="ACISportTV.it@SD">ACI Sport TV</channel>
+<channel site="magticom.ge" site_id="121" lang="ka" xmltv_id="Adjarasport1.ge@SD">Setanta Sports 3</channel>
+<channel site="bein.com" site_id="sports#36" lang="en" xmltv_id="AlkassFour.qa@SD">36</channel>
+<channel site="bein.com" site_id="sports#33" lang="en" xmltv_id="AlkassOne.qa@SD">33</channel>
+<channel site="bein.com" site_id="sports#38" lang="en" xmltv_id="AlkassSix.qa@SD">38</channel>
+<channel site="bein.com" site_id="sports#35" lang="en" xmltv_id="AlkassThree.qa@SD">35</channel>
+<channel site="bein.com" site_id="sports#34" lang="en" xmltv_id="AlkassTwo.qa@SD">34</channel>
+<channel site="m.tv.sms.cz" site_id="Arena+Sport+1" lang="sk" xmltv_id="ArenaSport1.sk@SD">Arena Sport 1</channel>
+<channel site="m.tv.sms.cz" site_id="Arena+Sport+2" lang="sk" xmltv_id="ArenaSport2.sk@SD">Arena Sport 2</channel>
+<channel site="tvarenasport.com" site_id="aa5p" lang="sr" logo="https://www.tvarenasport.com/files/img/icons/chanel-aa5p.png" xmltv_id="ArenaSport5Premium.rs@SD">Arena Sport 5 Premium Serbia</channel>
+<channel site="tv.nu" site_id="atg-live" lang="sv" xmltv_id="ATGLive.se@SD">ATG Live</channel>
+<channel site="mi.tv" site_id="br#bandsports" lang="pt" xmltv_id="BandSports.br@SD">BandSports</channel>
+<channel site="tvtv.us" site_id="113143" lang="en" xmltv_id="beINSPORTSXTRA.us@SD">beIN Sports Xtra USA</channel>
+<channel site="tvtv.us" site_id="122816" lang="en" xmltv_id="beINSPORTSXTRAenEspanol.us@SD">beIN Sports Xtra En Espanol</channel>
+<channel site="pluto.tv" site_id="5ebc8688f3697d00072f7cf8" lang="en" xmltv_id="BellatorMMA.us@SD">Bellator MMA</channel>
+<channel site="canalplus.com" site_id="#83" lang="fr" xmltv_id="CanalPlusSport360.fr@SD">CANAL+SPORT360</channel>
+<channel site="pluto.tv" site_id="63a0e33a45264d000850ed7e" lang="en" xmltv_id="CBSSportsGolazoNetwork.us@SD">Golazo Network</channel>
+<channel site="pluto.tv" site_id="5e9f2c05172a0f0007db4786" lang="en" xmltv_id="CBSSportsHQ.us@SD">CBS Sports HQ</channel>
+<channel site="tv.cctv.com" site_id="cctv5plus" lang="zh" xmltv_id="CCTV5Plus.cn@SD">CCTV 5+</channel>
+<channel site="gatotv.com" site_id="cdn_deportes" lang="es" xmltv_id="CDNDeportes.do@SD">Canal CDN Deportes</channel>
+<channel site="programacion.tcc.com.uy" site_id="265" lang="es" xmltv_id="ClaroSports.mx@SD">Claro Sports HD</channel>
+<channel site="meuguia.tv" site_id="135" lang="pt" xmltv_id="Combate.br@SD">Combate</channel>
+<channel site="horizon.tv" site_id="10082" lang="cs" xmltv_id="CTSport.cz@SD">CT sport HD</channel>
+<channel site="pluto.tv" site_id="64b67f0424ade50008a3be17" lang="de" xmltv_id="DAZNDartsxPlutoTV.de@DACH">DAZN Darts x Pluto TV</channel>
+<channel site="pluto.tv" site_id="64afe50c5dc16600087f3227" lang="de" xmltv_id="DAZNHeldinnenxPlutoTV.de@DACH">DAZN Heldinnen x Pluto TV</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_SPORTS" lang="en" xmltv_id="DDSports.in@SD">DD Sports</channel>
+<channel site="programacion-tv.elpais.com" site_id="377" lang="es" xmltv_id="DeportesporMovistarPlusPlus.es@SD">Movistar Deportes</channel>
+<channel site="canalplus.com" site_id="#540" lang="fr" xmltv_id="Equidia.fr@SD">EQUIDIA</channel>
+<channel site="mi.tv" site_id="br#espn" lang="pt" xmltv_id="ESPN.br@SD">ESPN Brasil</channel>
+<channel site="tvguide.com" site_id="9200006950" lang="en" xmltv_id="ESPNews.us@SD">ESPN News</channel>
+<channel site="tvguide.com" site_id="9233011350" lang="en" xmltv_id="ESPNU.us@SD">ESPNU</channel>
+<channel site="tv.mail.ru" site_id="1066" lang="ru" xmltv_id="ExtremeSportsChannel.ru@SD">Extreme Sports</channel>
+<channel site="horizon.tv" site_id="10130" lang="en" xmltv_id="FastFunBox.nl@SD">Fast &amp; FunBox HD</channel>
+<channel site="digiturk.com.tr" site_id="55" lang="tr" xmltv_id="FBTV.tr@SD">FB TV</channel>
+<channel site="pluto.tv" site_id="63d91d2560bc8f0008a225e4" lang="en" xmltv_id="FIFAPlus.uk@English">FIFA+</channel>
+<channel site="plex.tv" site_id="66633b8f76ca410aa18e7057" lang="de" xmltv_id="FIFAPlus.uk@German">FIFA+</channel>
+<channel site="plex.tv" site_id="6663446076ca410aa18e7061" lang="it" xmltv_id="FIFAPlus.uk@Italy">FIFA+</channel>
+<channel site="plex.tv" site_id="66634bd2ca7b22f4c3a2d731" lang="pt" xmltv_id="FIFAPlus.uk@Portuguese">FIFA+</channel>
+<channel site="watch.whaletvplus.com" site_id="999860001214956577" lang="es" xmltv_id="FIFAPlus.uk@Spain">FIFA+ (ES/MX)</channel>
+<channel site="tvtv.us" site_id="48099" lang="en" xmltv_id="FightNetwork.ca@SD">Fight Network</channel>
+<channel site="horizon.tv" site_id="10128" lang="en" xmltv_id="FightBox.nl@SD">Fightbox HD</channel>
+<channel site="orangetv.orange.es" site_id="1091" lang="es" xmltv_id="FightBox.nl@HD">Fight Box HD</channel>
+<channel site="tvtv.us" site_id="15377" lang="en" xmltv_id="FoxDeportes.us@SD">Fox Deportes</channel>
+<channel site="tvguide.com" site_id="9233008440" lang="en" xmltv_id="FoxSports1.us@HD">FOX Sports 1</channel>
+<channel site="tvguide.com" site_id="9200009884" lang="en" xmltv_id="FoxSports2.us@HD">FOX Sports 2</channel>
+<channel site="distro.tv" site_id="133605" lang="en" xmltv_id="FUELTV.pt@AU">FUEL TV</channel>
+<channel site="distro.tv" site_id="81997" lang="en" xmltv_id="FUELTV.pt@EMEA">FUEL TV</channel>
+<channel site="distro.tv" site_id="81581" lang="en" xmltv_id="FUELTV.pt@US">FUEL TV</channel>
+<channel site="gatotv.com" site_id="futv" lang="es" xmltv_id="FUTV.cr@SD">Canal FUTV</channel>
+<channel site="teliatv.ee" site_id="en#228" lang="en" xmltv_id="Go3Sport1.ee@SD">Go3 Sport 1</channel>
+<channel site="mi.tv" site_id="ar#golf-channel" lang="es" xmltv_id="GolfChannelLatinAmerica.us@SD">Golf Channel</channel>
+<channel site="mi.tv" site_id="hn#gol-tv" lang="es" xmltv_id="GolTVLatinAmerica.us@SD">Gol TV</channel>
+<channel site="guidatv.sky.it" site_id="DTH#6611" lang="it" xmltv_id="HorseTV.it@SD">Horse TV HD</channel>
+<channel site="dsmart.com.tr" site_id="66d839a0cfef0b37445c6db1" lang="tr" xmltv_id="HTSporTV.tr@SD">HT Spor</channel>
+<channel site="guida.tv" site_id="73788469/inter-tv" lang="it" xmltv_id="InterTV.it@SD">Inter TV</channel>
+<channel site="watch.whaletvplus.com" site_id="878087694210044785" lang="en" xmltv_id="InTrouble.nl@SD">INTROUBLE</channel>
+<channel site="tv.magenta.at" site_id="206966312329" lang="de" xmltv_id="K19.at@SD">K19</channel>
+<channel site="tv.mail.ru" site_id="905" lang="ru" xmltv_id="KHL.ru@SD">Телеканал КХЛ</channel>
+<channel site="distro.tv" site_id="83822" lang="en" xmltv_id="KozoomTV.fr@SD">KOZOOM TV</channel>
+<channel site="orangetv.orange.es" site_id="1023" lang="es" xmltv_id="LigadeCampeonesporMovistarPlusPlus.es@SD">M Liga de Campeones</channel>
+<channel site="cgates.lt" site_id="lrt-kultura-hd" lang="lt" xmltv_id="LRTPlius.lt@SD">LRT Plius</channel>
+<channel site="horizon.tv" site_id="10141" lang="sk" xmltv_id="M4Sport.hu@SD">m4 Sport HD</channel>
+<channel site="reportv.com.ar" site_id="934" lang="es" xmltv_id="MeridianoTV.ve@SD">MERIDIANO TV</channel>
+<channel site="pluto.tv" site_id="5e66968a70f34c0007d050be" lang="en" xmltv_id="MLB.us@SD">MLB</channel>
+<channel site="tvguide.com" site_id="9200009223" lang="en" xmltv_id="MLBNetwork.us@SD">MLB Network</channel>
+<channel site="tvtv.us" site_id="80404" lang="en" xmltv_id="MLBStrikeZone.us@SD">MLB Strike Zone</channel>
+<channel site="zuragt.mn" site_id="mnb-sport" lang="mn" xmltv_id="MNBSport.mn@SD">MNB Sport</channel>
+<channel site="pluto.tv" site_id="65c69b683ba51e00084534a3" lang="en" xmltv_id="MonsterJam.us@SD">Monster Jam</channel>
+<channel site="plex.tv" site_id="677f008707d7949c690f3170" lang="de" xmltv_id="MoreThanSportsTV.de@SD">More than Sports TV</channel>
+<channel site="tvtv.us" site_id="10979" lang="en" xmltv_id="MSG.us@SD">MSG</channel>
+<channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk@SD">MUTV</channel>
+<channel site="m.tv.sms.cz" site_id="Nautical+Channel" lang="en" xmltv_id="NauticalChannel.it@SD">Nautical Channel</channel>
+<channel site="tvguide.com" site_id="9200000070" lang="en" xmltv_id="NBATV.us@SD">NBA TV</channel>
+<channel site="tvtv.us" site_id="17596" lang="en" xmltv_id="NBCSportsPhiladelphia.us@SD">NBC Sports Philadelphia</channel>
+<channel site="pluto.tv" site_id="5ced7d5df64be98e07ed47b6" lang="en" xmltv_id="NFLChannel.us@SD">NFL Channel</channel>
+<channel site="tvguide.com" site_id="9200004330" lang="en" xmltv_id="NFLNetwork.us@SD">NFL Network</channel>
+<channel site="tvguide.com" site_id="9233009455" lang="en" xmltv_id="NHLNetwork.us@SD">NHL Network</channel>
+<channel site="pluto.tv" site_id="60d39387706fe50007fda8e8" lang="en" xmltv_id="PBRRidePass.us@SD">PBR RidePass</channel>
+<channel site="pluto.tv" site_id="6334a574605f140007e233c4" lang="en" xmltv_id="PFLMMA.us@SD">PFL MMA</channel>
+<channel site="pluto.tv" site_id="66d885aef0f17500084b6750" lang="en" xmltv_id="PGATour.us@SD">PGA TOUR</channel>
+<channel site="pluto.tv" site_id="603fde9026ecbf0007752c2c" lang="en" xmltv_id="PlutoTVCompetition.us@SD">Pluto TV Competition</channel>
+<channel site="pluto.tv" site_id="5dcde07af1c85b0009b18651" lang="es" xmltv_id="PlutoTVDeportes.us@LatAm">Pluto TV Deportes</channel>
+<channel site="pluto.tv" site_id="5ff3934600d4c7000733ff49" lang="es" xmltv_id="PlutoTVESports.us@LatAm">Pluto TV E-Sports</channel>
+<channel site="pluto.tv" site_id="5f32d2db0af67400077f29c4" lang="pt" xmltv_id="PlutoTVEsportes.us@BR">Pluto TV Esportes</channel>
+<channel site="pluto.tv" site_id="619e1874e0d3a7000729a036" lang="da" xmltv_id="PlutoTVFishing.se@DK">Pluto TV Fishing</channel>
+<channel site="pluto.tv" site_id="68dfa431cc3c6cd904053100" lang="da" xmltv_id="PlutoTVHandboldHighlights.se@DK">Pluto TV Håndbold Highlights</channel>
+<channel site="pluto.tv" site_id="6618f54baec96800081525ec" lang="da" xmltv_id="PlutoTVHandboldLive.se@DK">Pluto TV Håndbold Live</channel>
+<channel site="pluto.tv" site_id="68dfa3e2cc3c6cd904052c41" lang="sv" xmltv_id="PlutoTVHandbollHighlights.se@SE">Pluto TV Handboll Highlights</channel>
+<channel site="pluto.tv" site_id="686faf533ffa5e0c912688e7" lang="sv" xmltv_id="PlutoTVHandbollLive.se@SE">Pluto TV Handboll Live</channel>
+<channel site="pluto.tv" site_id="68ac5543a1ac0c90f2c8943e" lang="de" xmltv_id="PlutoTVSnooker900.de@DACH">Pluto TV Snooker 900</channel>
+<channel site="pluto.tv" site_id="69148c470155f9b136b5d856" lang="es" xmltv_id="PlutoTVSnooker900.de@ES">Pluto TV Snooker 900</channel>
+<channel site="pluto.tv" site_id="66fd35e44ca31f0008060b77" lang="fr" xmltv_id="PlutoTVSnooker900.de@FR">Pluto TV Snooker 900</channel>
+<channel site="pluto.tv" site_id="69148c76e9dec35c9269a16c" lang="it" xmltv_id="PlutoTVSnooker900.de@IT">Pluto TV Snooker 900</channel>
+<channel site="pluto.tv" site_id="68ac55bb3efb41cd979a65ec" lang="da" xmltv_id="PlutoTVSnooker900.se@DK">Pluto TV Snooker 900</channel>
+<channel site="pluto.tv" site_id="68ac55fe3efb41cd979a6877" lang="no" xmltv_id="PlutoTVSnooker900.se@NO">Pluto TV Snooker 900</channel>
+<channel site="pluto.tv" site_id="68ac56363efb41cd979a8005" lang="sv" xmltv_id="PlutoTVSnooker900.se@SE">Pluto TV Snooker 900</channel>
+<channel site="pluto.tv" site_id="639b4f75d3d35c0007d37b30" lang="en" xmltv_id="PlutoTVSnooker900.us@CA">Pluto TV Snooker 900</channel>
+<channel site="pluto.tv" site_id="608030eff4b6f70007e1684c" lang="it" xmltv_id="PlutoTVSport.de@IT">Pluto TV Sport</channel>
+<channel site="pluto.tv" site_id="6357f3de3643ba0007bc0b50" lang="da" xmltv_id="PlutoTVSport.se@DK">Pluto TV Sport</channel>
+<channel site="pluto.tv" site_id="6357f33cb51d2d00077927c6" lang="no" xmltv_id="PlutoTVSport.se@NO">Pluto TV Sport</channel>
+<channel site="pluto.tv" site_id="62cd74e38f6f0d000798cd93" lang="en" xmltv_id="PlutoTVSport.se@SE">Pluto TV Sport</channel>
+<channel site="pluto.tv" site_id="5fc54366b04b2300072e31af" lang="en" xmltv_id="PokerGo.us@US">PokerGO</channel>
+<channel site="tapdmv.com" site_id="24249e64-374c-4c32-bc02-1bfa953fa5ea" lang="en" xmltv_id="PremierSports.ph@SD">premiersports1</channel>
+<channel site="entertainment.ie" site_id="premier-sports-1" lang="en" xmltv_id="PremierSports1.ie@SD">Premier Sports 1</channel>
+<channel site="entertainment.ie" site_id="premier-sports-2" lang="en" xmltv_id="PremierSports2.ie@SD">Premier Sports 2</channel>
+<channel site="tapdmv.com" site_id="c8997290-0446-455e-9b55-ca3c749786b6" lang="en" xmltv_id="PremierSports2.ph@SD">premiersports2</channel>
+<channel site="pluto.tv" site_id="63dac28760bc8f0008a7654b" lang="pt" xmltv_id="RealMadridTV.es@SD">Realmadrid TV</channel>
+<channel site="vidio.com" site_id="19538" lang="id" xmltv_id="RealMadridTVEnglish.es@SD">Real Madrid TV</channel>
+<channel site="teleboy.ch" site_id="621" lang="en" xmltv_id="RedBullTV.at@EUMENA">Red Bull TV (engl.)</channel>
+<channel site="pluto.tv" site_id="5e7cb84a172a0f0007da69e4" lang="de" xmltv_id="RedBullTV.at@SD">Red Bull TV</channel>
+<channel site="watch.whaletvplus.com" site_id="979187723418476851" lang="en" xmltv_id="RedBullTV.at@AU">Red Bull TV (AU)</channel>
+<channel site="watch.whaletvplus.com" site_id="1022040038798139276" lang="pt" xmltv_id="RedBullTV.at@BR">Red Bull TV (BR)</channel>
+<channel site="watch.whaletvplus.com" site_id="968808735454013034" lang="de" xmltv_id="RedBullTV.at@DE">Red Bull TV (DE)</channel>
+<channel site="watch.whaletvplus.com" site_id="968808735454013032" lang="es" xmltv_id="RedBullTV.at@ES">Red Bull TV (ES)</channel>
+<channel site="watch.whaletvplus.com" site_id="968808735454013033" lang="en" xmltv_id="RedBullTV.at@UK">Red Bull TV (UK)</channel>
+<channel site="canalplus.com" site_id="#732" lang="fr" xmltv_id="RMCSport1.fr@SD">RMC SPORT 1</channel>
+<channel site="tvprofil.com" site_id="al/programacioni#rtsh-sport" lang="sq" xmltv_id="RTSHSport.al@SD">RTSH Sport</channel>
+<channel site="turksatkablo.com.tr" site_id="1810" lang="tr" xmltv_id="SSport.tr@SD">S Sport</channel>
+<channel site="turksatkablo.com.tr" site_id="3901" lang="tr" xmltv_id="SSport2.tr@SD">S Sport2</channel>
+<channel site="sat.tv" site_id="1#38#الشارقة الرياضية" lang="ar" xmltv_id="SharjahSports.ae@SD">الشارقة الرياضية</channel>
+<channel site="foxtel.com.au" site_id="SKY-Racing-2/SR2" lang="en" xmltv_id="SkyRacing2.au@SD">SKY Racing 2</channel>
+<channel site="guida.tv" site_id="83837049/sky-sport-f1" lang="it" xmltv_id="SkySportF1.it@SD">Sky Sport F1</channel>
+<channel site="sky.com" site_id="GB#1302" lang="en" xmltv_id="SkySportsCricket.ie@SD">SkySp Cricket</channel>
+<channel site="sky.com" site_id="GB#1306" lang="en" xmltv_id="SkySportsF1.ie@SD">SkySp F1</channel>
+<channel site="sky.com" site_id="GB#3840" lang="en" xmltv_id="SkySportsFootball.ie@SD">SkySp F&apos;ball</channel>
+<channel site="sky.com" site_id="GB#3049" lang="en" xmltv_id="SkySportsGolf.ie@HD">SkySp Golf HD</channel>
+<channel site="distro.tv" site_id="42167" lang="en" xmltv_id="SlopesTV.us@SD">Slopes TV</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1" lang="en" xmltv_id="SonySportsTen1.in@SD">SONY SPORTS TEN 1</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD" lang="en" xmltv_id="SonySportsTen1.in@HD">SONY SPORTS TEN 1 HD</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2" lang="en" xmltv_id="SonySportsTen2.in@SD">SONY SPORTS TEN 2</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD" lang="en" xmltv_id="SonySportsTen2.in@HD">SONY SPORTS TEN 2 HD</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3" lang="en" xmltv_id="SonySportsTen3Hindi.in@SD">Sony Sports Ten 3 Hindi</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3_HD" lang="en" xmltv_id="SonySportsTen3Hindi.in@HD">SONY SPORTS TEN 3 HINDI HD</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_4" lang="en" xmltv_id="SonySportsTen4.in@Tamil">SONY SPORTS TEN 4 TAMIL</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_4_HD" lang="en" xmltv_id="SonySportsTen4.in@Telugu">Sony Sports Ten 4 Telugu</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5" lang="en" xmltv_id="SonySportsTen5.in@SD">SONY SPORTS TEN 5</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD" lang="en" xmltv_id="SonySportsTen5.in@HD">SONY SPORTS TEN 5 HD</channel>
+<channel site="musor.tv" site_id="SPILER_TV" lang="hu" xmltv_id="Spiler1.hu@SD">Spíler1 TV (HD)</channel>
+<channel site="musor.tv" site_id="SPILER2_TV" lang="hu" xmltv_id="Spiler2.hu@SD">Spíler2 TV (HD)</channel>
+<channel site="horizon.tv" site_id="10074" lang="sk" xmltv_id="Sport1.cz@SD">Sport 1 HD</channel>
+<channel site="m.tv.sms.cz" site_id="Sport1+%28hu%29" lang="cs" xmltv_id="Sport1.hu@SD">Sport1 (hu)</channel>
+<channel site="horizon.tv" site_id="10075" lang="sk" xmltv_id="Sport2.cz@SD">Sport 2 HD</channel>
+<channel site="m.tv.sms.cz" site_id="Sport2+%28hu%29" lang="cs" xmltv_id="Sport2.hu@SD">Sport2 (hu)</channel>
+<channel site="meo.pt" site_id="SPT1HD" lang="pt" xmltv_id="SportTV1.pt@SD">Sport TV1</channel>
+<channel site="meo.pt" site_id="SPT2HD" lang="pt" xmltv_id="SportTV2.pt@SD">Sport TV2</channel>
+<channel site="meo.pt" site_id="SPT5HD" lang="pt" xmltv_id="SportTV5.pt@SD">Sport TV5</channel>
+<channel site="meo.pt" site_id="SPT6HD" lang="pt" xmltv_id="SportTV6.pt@SD">Sport TV6</channel>
+<channel site="meo.pt" site_id="SPT7HD" lang="pt" xmltv_id="SportTV7.pt@SD">Sport TV7</channel>
+<channel site="meo.pt" site_id="SPTVHD" lang="pt" xmltv_id="SportTVPlus.pt@SD">Sport TV +</channel>
+<channel site="guida.tv" site_id="83807384/sport-italia" lang="it" xmltv_id="Sportitalia.it@SD">Sport Italia</channel>
+<channel site="tv.blue.ch" site_id="2049" lang="it" xmltv_id="SportitaliaSolocalcio.it@SD">SI Solocalcio</channel>
+<channel site="mi.tv" site_id="br#sportv3" lang="pt" xmltv_id="SporTV3.br@SD">SporTV3</channel>
+<channel site="tvtv.us" site_id="104950" lang="en" xmltv_id="Stadium.us@SD">Stadium</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI" lang="en" xmltv_id="StarSports1Hindi.in@SD">Star Sports Hindi 1</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD" lang="en" xmltv_id="StarSports2.in@HD">Star Sports 2 HD</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SPORTS18SYMHYP1" lang="en" xmltv_id="StarSports2Hindi.in@SD">Star Sports 2 Hindi</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SPORTS18_SYMHYP_1_HD" lang="en" xmltv_id="StarSports2Hindi.in@HD">Star Sports 2 Hindi HD</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL" lang="en" xmltv_id="StarSportsKhel.in@SD">STAR SPORTS KHEL</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD" lang="en" xmltv_id="StarSportsSelect2.in@HD">Star Sports Select 2 HD</channel>
+<channel site="rtmklik.rtm.gov.my" site_id="4" lang="ms" xmltv_id="SukanRTM.my@SD">Sukan RTM</channel>
+<channel site="superguidatv.it" site_id="supertennis/250" lang="it" xmltv_id="SuperTennis.it@SD">SuperTennis</channel>
+<channel site="pluto.tv" site_id="683df56f5195c2a60a3f5559" lang="en" xmltv_id="SwerveSports.us@SD">Swerve Sports</channel>
+<channel site="gigatv.3bbtv.co.th" site_id="7" lang="th" xmltv_id="TSports7.th@SD">T Sports 7</channel>
+<channel site="freeview.co.uk" site_id="64257#22592" lang="en" xmltv_id="talkSPORT.uk@SD">talkSPORT</channel>
+<channel site="gatotv.com" site_id="teledeporte" lang="es" xmltv_id="Teledeporte.es@SD">Canal Teledeporte</channel>
+<channel site="mi.tv" site_id="cl#teletrak" lang="es" xmltv_id="TeletrakTV.cl@SD">Teletrak</channel>
+<channel site="tvguide.com" site_id="9200017917" lang="en" xmltv_id="TennisChannel.us@SD">The Tennis</channel>
+<channel site="pluto.tv" site_id="681109b688b9d85d0938c6ba" lang="en" xmltv_id="TennisChannel.us@Plus2">TennisChannel 2</channel>
+<channel site="gatotv.com" site_id="tigo_sports_costa_rica" lang="es" xmltv_id="TigoSports.cr@SD">Canal Tigo Sports (Costa Rica)</channel>
+<channel site="gatotv.com" site_id="tigo_sports_guatemala" lang="es" xmltv_id="TigoSports.gt@SD">Canal Tigo Sports (Guatemala)</channel>
+<channel site="mi.tv" site_id="co#trace-sports-stars" lang="es" xmltv_id="TraceSportStars.fr@HD">TRACE Sports Stars</channel>
+<channel site="digiturk.com.tr" site_id="331" lang="tr" xmltv_id="TRTSpor.tr@SD">TRT SPOR</channel>
+<channel site="digiturk.com.tr" site_id="533" lang="tr" xmltv_id="TRTSporYildiz.tr@SD">TRT SPOR YILDIZ</channel>
+<channel site="tvmi.mt" site_id="4" lang="mt" xmltv_id="TVMsportPlus.mt@SD">TVMsport+</channel>
+<channel site="dens.tv" site_id="118" lang="id" xmltv_id="TVRISport.id@SD">TVRI Sport</channel>
+<channel site="watchyour.tv" site_id="786" lang="en" xmltv_id="TVSBoxing.us@SD">TVS Boxing Network</channel>
+<channel site="watchyour.tv" site_id="735" lang="en" xmltv_id="TVSClassicSports.us@SD">TVS Classic Sports</channel>
+<channel site="watchyour.tv" site_id="793" lang="en" xmltv_id="TVSTurbo.us@SD">TVS Turbo Network</channel>
+<channel site="watchyour.tv" site_id="798" lang="en" xmltv_id="TVSWomenSports.us@SD">TVS Women&apos;s Sports Network</channel>
+<channel site="tvtv.us" site_id="16275" lang="en" xmltv_id="TyCSports.ar@SD">TyC Sports</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMANDFLIX" lang="en" xmltv_id="Unite8Sports2.in@SD">Unite8 Sports 2</channel>
+<channel site="tvguide.com" site_id="9233004106" lang="en" xmltv_id="USANetwork.us@East">USA</channel>
+<channel site="tvtv.us" site_id="68605" lang="en" xmltv_id="Willow.us@SD">Willow</channel>
+<channel site="mi.tv" site_id="co#win-sports-hd" lang="es" xmltv_id="WinSports.co@SD">Win Sports HD</channel>
+<channel site="teleboy.ch" site_id="595" lang="de" xmltv_id="WorldofFreesports.de@SD">World of Freesports</channel>
+<channel site="pluto.tv" site_id="5ad9b7aae738977e2c312132" lang="de" xmltv_id="WorldPokerTour.us@Germany">World Poker Tour</channel>
+<channel site="pluto.tv" site_id="5ad8d796e738977e2c31094a" lang="en" xmltv_id="WorldPokerTour.us@UK">World Poker Tour</channel>
+<channel site="tvtv.us" site_id="113372" lang="en" xmltv_id="WorldPokerTour.us@US">World Poker Tour</channel>
+<channel site="distro.tv" site_id="51671" lang="en" xmltv_id="XFCTV.us@SD">XFC TV</channel>
+<channel site="tvgids.nl" site_id="ziggosport" lang="nl" xmltv_id="ZiggoSport.nl@HD">Ziggo Sport</channel>
+<channel site="tvgids.nl" site_id="ziggosport2" lang="nl" xmltv_id="ZiggoSport2.nl@HD">Ziggo Sport 2</channel>
+<channel site="tvgids.nl" site_id="ziggosport5" lang="nl" xmltv_id="ZiggoSport5.nl@HD">Ziggo Sport 5</channel>
+<channel site="guidatv.sky.it" site_id="DTH#11402" lang="it" xmltv_id="ZonaDAZN.it@SD">DAZN 1</channel>
+<channel site="tv.mail.ru" site_id="980" lang="ru" xmltv_id="Football.ru@SD">Футбол</channel>
+</channels>
