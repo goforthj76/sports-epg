@@ -26,7 +26,8 @@ jobs:
       - name: Download schedules
         run: |
           cd /tmp/epg
-          node --import tsx scripts/commands/epg/grab.ts --channels="$GITHUB_WORKSPACE/sports.channels.xml" --output="$GITHUB_WORKSPACE/next.xml" --days=2 --maxConnections=2 --timeout=10000
+          sed '/site="tv.mail.ru"/d' "$GITHUB_WORKSPACE/sports.channels.xml" > /tmp/sports.channels.xml
+          node --import tsx scripts/commands/epg/grab.ts --channels=/tmp/sports.channels.xml --output="$GITHUB_WORKSPACE/next.xml" --days=2 --maxConnections=2 --timeout=10000
       - name: Validate and publish
         run: |
           python3 - <<'PY'
